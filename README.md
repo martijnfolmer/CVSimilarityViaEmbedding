@@ -7,3 +7,4 @@ Note that this is very much a proof of concept and many improvements can be made
 
 ![Tracking with two people](img/Example.png)
 
+[A video of the results can be found here](https://www.linkedin.com/posts/martijn-folmer-68026287_computervision-machinelearning-yolo-activity-7079351112297783296-bQqT?utm_source=share&utm_medium=member_desktop) 
